@@ -152,7 +152,7 @@ class _HomePageState extends State<HomePage> {
                         color: Colors.white),
                     children: [
                       TextSpan(
-                        text: "Claire Maiden",
+                        text: "Andika Saputra",
                         style: TextStyle(
                           fontWeight: FontWeight.normal,
                         ),
@@ -164,7 +164,7 @@ class _HomePageState extends State<HomePage> {
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(18),
                     child: Image.asset(
-                      "assets/images/user_profile.png",
+                      "assets/images/user_profile.jpg",
                       height: height * 0.15,
                       width: width * 0.10,
                       fit: BoxFit.cover,
